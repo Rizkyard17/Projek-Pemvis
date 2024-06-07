@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HALAMAN_LOADING", "HALAMAN_LOADING\HALAMAN_LOADING.csproj", "{BDC1B9B6-C838-499C-9905-DECBAF4ADB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC1B9B6-C838-499C-9905-DECBAF4ADB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC1B9B6-C838-499C-9905-DECBAF4ADB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC1B9B6-C838-499C-9905-DECBAF4ADB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC1B9B6-C838-499C-9905-DECBAF4ADB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9C549C-7F4B-48CA-BDB0-E36F02C58173}
+	EndGlobalSection
+EndGlobal
