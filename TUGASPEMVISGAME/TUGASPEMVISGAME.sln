@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUGASPEMVISGAME", "TUGASPEMVISGAME\TUGASPEMVISGAME.csproj", "{C3AFC79B-3ECD-4D2E-944E-5893780913C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GUI", "GUI", "{78E4F055-81AD-4AF4-AE72-4E2A638097E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kelas", "Kelas", "{032BF98C-1D37-4A31-B862-DD88B8FA9893}"
+	ProjectSection(SolutionItems) = preProject
+		TUGASPEMVISGAME\Users.cs = TUGASPEMVISGAME\Users.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AFC79B-3ECD-4D2E-944E-5893780913C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AFC79B-3ECD-4D2E-944E-5893780913C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AFC79B-3ECD-4D2E-944E-5893780913C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AFC79B-3ECD-4D2E-944E-5893780913C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB11401-01EE-4BBF-B46E-37E02ADDDE13}
+	EndGlobalSection
+EndGlobal
